@@ -1,5 +1,5 @@
 
-### Lab 1: Threat Actor Profiling and MITRE ATT&CK Framework Analysis
+# Lab 1: Threat Actor Profiling and MITRE ATT&CK Framework Analysis
 
 #### **Objective:**
 This lab focuses on understanding and profiling threat actors using the **MITRE ATT&CK Framework**. Students will analyze the tactics, techniques, and procedures (TTPs) used by real-world threat actors, and learn how to profile them effectively.
