@@ -1,0 +1,7 @@
+This is a simulated malware payload.
+Malware detected by YARA rules.
+Malicious string: malicious_code
+Payload trigger: payload_trigger
+Suspicious behavior detected.
+File created by malware: malicious_sample.txt
+Malware execution completed successfully.
